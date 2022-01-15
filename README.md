@@ -6,7 +6,7 @@ This is my personal portfolio website
     Navigate into the site’s directory and start it up.
 
     ```shell
-    cd zonayed.me/
+    cd mahboob.me/
     gatsby develop
     ```
 
